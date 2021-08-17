@@ -1,0 +1,15 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: red;
+}
+
+#projects {
+  padding-top: 2rem;
+  background-color: red;
+}
+
+#Tentang .gelembung svg {
+  width: 100%;
+  position: relative;
+  bottom: -10px;
+}
